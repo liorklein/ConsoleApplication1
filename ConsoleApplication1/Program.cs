@@ -14,6 +14,7 @@ namespace ConsoleApplication1
             int j = 3;
             int k = 5;
             k += 3;
+            k=k*9
         }
     }
 }
