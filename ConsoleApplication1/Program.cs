@@ -13,6 +13,7 @@ namespace ConsoleApplication1
             int i = 0;
             int j = 3;
             int k = 5;
+            k += 1;
         }
     }
 }
