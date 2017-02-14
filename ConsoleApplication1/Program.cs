@@ -10,11 +10,13 @@ namespace ConsoleApplication1
     {
         static void Main(string[] args)
         {
+            //gsdfgdfgsdfgsdfgsfdgsfg
             int i = 0;
             int j = 3;
             int k = 5;
             k += 3;
             k = k * 9;
+            //fgdgsdfgsdfgsfdgsfdgsfdg
         }
     }
 }
